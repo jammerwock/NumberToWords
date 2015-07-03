@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * This class will convert numeric values into an english representation
+ * http://stackoverflow.com/questions/3911966/how-to-convert-number-to-words-in-java
  *
  * For units, see : http://www.jimloy.com/math/billion.htm
  *
